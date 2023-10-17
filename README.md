@@ -48,4 +48,4 @@ Verify data again using "read" command and use HxD data comparison function.
 #### Note:
 Don't expect this sketch to work perfectly or that it's polished. I've written this over a span of two days and once I read, modified and uploaded new data to EEPROM I completed my initial goal so I did not worry about polishing it too much.
 
-![Screenshot](img/putty_example.png?raw=true "1")
+![Screenshot](putty_example.png?raw=true "1")
